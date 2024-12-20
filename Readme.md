@@ -18,6 +18,3 @@ To ensure the highest level of gameplay, the developers implemented advanced AI 
 The development team also focused on creating visually stunning graphics and animations that enhance the overall gaming experience. From intricately designed chess pieces to beautifully rendered environments, Lucid Chess immerses players in a visually captivating world.
 
 In conclusion, Lucid Chess is the result of a dedicated team's passion for chess and game development. With its blend of strategic gameplay, intuitive interface, and stunning visuals, Lucid Chess offers a truly immersive and enjoyable chess experience for players of all levels.
-
-# Target
-Implementing a crypto wallet in an existing Lucid game can provide players with a seamless and secure way to manage their in-game assets and participate in the growing world of blockchain gaming. By integrating a crypto wallet, players can securely store, trade, and transfer their digital assets within the game environment.
